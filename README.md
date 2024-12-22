@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6464,100:FF4B77&height=300&section=header&text=안녕하세요!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
   ### 💫 Welcome to my GitHub! 
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrangjw&count_bg=%23FF4B77&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrangjw&count_bg=%2340E0D0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
@@ -12,13 +12,13 @@
 
 ## 🛠️ Tech Stack 
 
-#### 💻 Frontend Development
+#### 💻 Development
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 #### 📊 Data Analysis
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,8 +28,9 @@
 
 ## 📚 Currently Learning 
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-40E0D0?style=for-the-badge&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ## 🔧 Tools & Environment
 #### Version Control & Development
@@ -39,18 +40,17 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726)
 
 #### Design & Planning
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)
 
 ## 📊 GitHub Stats
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=mrangjw&layout=compact&theme=radical)](https://github.com/mrangjw)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=mrangjw&layout=compact&theme=vue)](https://github.com/mrangjw)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue)](https://git.io/streak-stats)
   
 </div>
 
@@ -66,8 +66,8 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4B77&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6464,100:FF4B77&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=200&section=footer)
