@@ -76,7 +76,7 @@
 <br/>
 
 ## 🏆 Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true&rank=A,AAA,AA&no-bg=true)
 
 <br/>
 
