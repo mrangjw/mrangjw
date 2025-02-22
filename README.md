@@ -1,11 +1,11 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+ 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-  ### 💫 Welcome to my GitHub! 
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrangjw&count_bg=%2340E0D0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+ ### 💫 Welcome to my GitHub! 
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrangjw&count_bg=%2340E0D0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 </div>
 
 <br/>
@@ -54,8 +54,8 @@
 <br/>
 
 ## 💡 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FarmON-FE&theme=vue)](https://github.com/mrangjw/FarmON-FE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=Reflog-FE&theme=vue)](https://github.com/mrangjw/Reflog-FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FarmON-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/FarmON-FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=Reflog-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/Reflog-FE)
 
 <br/>
 
@@ -76,32 +76,32 @@
 <br/>
 
 ## 🏆 Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=6&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&no-bg=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true)
 
 <br/>
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=mrangjw&layout=compact&theme=vue)](https://github.com/mrangjw)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue)](https://git.io/streak-stats)
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrangjw&theme=vue&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue&cache_seconds=1800)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrangjw&layout=compact&theme=vue&hide_border=true&cache_seconds=1800)](https://github.com/mrangjw)
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue&hide_border=true)](https://git.io/streak-stats)
+ 
+ ![Activity Graph](https://ghactivity.mrayush.me/graph?username=mrangjw&theme=vue&area=true&hide_border=true&radius=8)
+ 
 </div>
 
 <br/>
 
 ## 📫 Connect with Me
 <div align="center">
-  
-  [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mrang/posts)
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://eggplant-piccolo-90a.notion.site/1625c454f14580d98ceaf0ab2425593c)
-  [![Gmail](https://img.shields.io/badge/mrangjw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrangjw@gmail.com)
-  
+ 
+ [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mrang/posts)
+ [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://eggplant-piccolo-90a.notion.site/1625c454f14580d98ceaf0ab2425593c)
+ [![Gmail](https://img.shields.io/badge/mrangjw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrangjw@gmail.com)
+ 
 </div>
 
 <br/>
@@ -109,9 +109,9 @@
 ---
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
-  
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
+ 
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=200&section=footer)
