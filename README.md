@@ -1,11 +1,11 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+ 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-  ### 💫 Welcome to my GitHub! 
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrangjw&count_bg=%2340E0D0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+ ### 💫 Welcome to my GitHub! 
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrangjw&count_bg=%2340E0D0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 </div>
 
 <br/>
@@ -43,31 +43,52 @@
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)
 
+## 💡 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=QuizGame&theme=vue)](https://github.com/mrangjw/QuizGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FE-Whalewhale&theme=vue)](https://github.com/mrangjw/FE-Whalewhale)
+
+## 🚀 Current Projects
+- 🎮 GPT API를 활용한 실시간 멀티플레이어 퀴즈 게임 개발
+- 📊 React/Spring 기반의 웹 서비스 구축
+- 📱 AI를 활용한 반응형 웹 애플리케이션 개발
+- 🌱 오픈소스 프로젝트 기여 활동
+
+## 🎯 Future Goals
+- TypeScript와 Next.js 마스터하기
+- 대규모 오픈소스 프로젝트에 적극적으로 기여하기
+- 클라우드 네이티브 기술 습득 (AWS, Docker, Kubernetes)
+- 알고리즘 및 시스템 디자인 역량 강화
+
+## 🏆 Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=7)
+
 ## 📊 GitHub Stats
 <div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=mrangjw&layout=compact&theme=vue)](https://github.com/mrangjw)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue)](https://git.io/streak-stats)
-  
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=mrangjw&layout=compact&theme=vue)](https://github.com/mrangjw)
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue)](https://git.io/streak-stats)
+ 
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrangjw&theme=vue)
+ 
 </div>
 
 ## 📫 Connect with Me
 <div align="center">
-  
-  [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mrangjw)
-  [![Gmail](https://img.shields.io/badge/mrangjw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrangjw@gmail.com)
-  
+ 
+ [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mrangjw)
+ [![Gmail](https://img.shields.io/badge/mrangjw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrangjw@gmail.com)
+ 
 </div>
 
 ---
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
-  
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
+ 
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=200&section=footer)
