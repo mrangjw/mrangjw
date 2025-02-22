@@ -54,14 +54,8 @@
 <br/>
 
 ## 💡 Featured Projects
-<div style="display: flex; justify-content: space-between; gap: 10px;">
- <a href="https://github.com/mrangjw/FarmON-FE" style="width: 49%;">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FarmON-FE&theme=vue&show_owner=true&cache_seconds=1800" width="100%" />
- </a>
- <a href="https://github.com/mrangjw/Reflog-FE" style="width: 49%;">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=Reflog-FE&theme=vue&show_owner=true&cache_seconds=1800" width="100%" />
- </a>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FarmON-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/FarmON-FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=Reflog-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/Reflog-FE)
 
 <br/>
 
@@ -82,9 +76,7 @@
 <br/>
 
 ## 🏆 Achievements
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=6&row=1&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true" />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true)
 
 <br/>
 
