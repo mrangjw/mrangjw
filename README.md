@@ -4,7 +4,7 @@
 
  ### 💫 Welcome to my GitHub! 
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrangjw&count_bg=%2340E0D0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Profile Views](https://visitorbadge.io/api/visitors?path=mrangjw&label=Profile%20Views&countColor=%2340E0D0&style=flat&labelStyle=none)](https://visitorbadge.io/status/mrangjw)
  
 </div>
 
@@ -12,29 +12,29 @@
 
 ## 🛠️ Tech Stack 
 
-#### 💻 Development
+#### 💻 Frontend Development
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br/>
 
-#### 📊 Data Analysis
+#### ⚙️ Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br/>
+
+#### 📊 Data Analysis & AI
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-
-<br/>
-
-## 📚 Currently Learning 
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-40E0D0?style=for-the-badge&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 <br/>
 
@@ -54,24 +54,26 @@
 <br/>
 
 ## 💡 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=PoseSync-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/PoseSync-FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FarmON-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/FarmON-FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=Reflog-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/Reflog-FE)
 
 <br/>
 
 ## 🚀 Current Projects
+- 🏃‍♂️ **PoseSync** - AI 기반 실시간 운동 자세 분석 및 응급상황 감지 시스템 (2025 한성대 캡스톤)
 - 🎮 GPT API를 활용한 실시간 멀티플레이어 퀴즈 게임 개발
 - 📊 React/Spring 기반의 웹 서비스 구축
-- 📱 AI를 활용한 반응형 웹 애플리케이션 개발
-- 🌱 기기(허브,센서,태그)를 활용한 복지 앱 서비스 개발 
+- 🌱 IoT 기기를 활용한 스마트 복지 앱 서비스 개발
 
 <br/>
 
 ## 🎯 Future Goals
-- TypeScript와 Next.js 마스터하기
-- Spring Boot와 JPA를 활용한 서버 아키텍처 설계 및 구현 능력 향상
-- 클라우드 네이티브 기술 습득 (AWS, Docker, Kubernetes)
-- 알고리즘 및 시스템 디자인 역량 강화
+- **Full-Stack 역량 강화**: TypeScript + Next.js + Spring Boot 마스터
+- **AI/ML 전문성 확대**: MediaPipe, Computer Vision, 실시간 데이터 처리
+- **클라우드 네이티브**: AWS, Docker, Kubernetes 기술 습득
+- **시스템 아키텍처**: 대규모 서비스 설계 및 최적화 능력 향상
+- **오픈소스 기여**: 더 많은 오픈소스 프로젝트 참여 및 기여
 
 <br/>
 
