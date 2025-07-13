@@ -1,11 +1,12 @@
 <div align="center">
- 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
- ### 💫 Welcome to my GitHub! 
- 
- [![Profile Views](https://visitorbadge.io/api/visitors?path=mrangjw&label=Profile%20Views&countColor=%2340E0D0&style=flat&labelStyle=none)](https://visitorbadge.io/status/mrangjw)
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+
+### 💫 Welcome to my GitHub! 
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mrangjw&color=40E0D0&style=flat-square&label=Profile+Views)](https://github.com/mrangjw)
+[![GitHub followers](https://img.shields.io/github/followers/mrangjw?style=social)](https://github.com/mrangjw)
+
 </div>
 
 <br/>
@@ -62,9 +63,8 @@
 
 ## 🚀 Current Projects
 - 🏃‍♂️ **PoseSync** - AI 기반 실시간 운동 자세 분석 및 응급상황 감지 시스템 (2025 한성대 캡스톤)
-- 🎮 GPT API를 활용한 실시간 멀티플레이어 퀴즈 게임 개발
-- 📊 React/Spring 기반의 웹 서비스 구축
-- 🌱 IoT 기기를 활용한 스마트 복지 앱 서비스 개발
+- 📱 **Agile Dashboard** - Jira, Trello API를 활용한 모바일 애자일 프로젝트 관리 대시보드 구현
+- ⚙️ **MicroService Hub** - Spring Boot 기반 마이크로서비스 아키텍처 학습용 멀티 서비스 플랫폼 개발
 
 <br/>
 
@@ -84,26 +84,26 @@
 
 ## 📊 GitHub Stats
 <div align="center">
- 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue&cache_seconds=1800)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrangjw&layout=compact&theme=vue&hide_border=true&cache_seconds=1800)](https://github.com/mrangjw)
- 
- [![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue&hide_border=true)](https://git.io/streak-stats)
- 
- ![Activity Graph](https://ghactivity.mrayush.me/graph?username=mrangjw&theme=vue&area=true&hide_border=true&radius=8)
- 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue&cache_seconds=1800)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrangjw&layout=compact&theme=vue&hide_border=true&cache_seconds=1800)](https://github.com/mrangjw)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue&hide_border=true)](https://git.io/streak-stats)
+
+![Activity Graph](https://ghactivity.mrayush.me/graph?username=mrangjw&theme=vue&area=true&hide_border=true&radius=8)
+
 </div>
 
 <br/>
 
 ## 📫 Connect with Me
 <div align="center">
- 
- [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mrang/posts)
- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://eggplant-piccolo-90a.notion.site/1625c454f14580d98ceaf0ab2425593c)
- [![Gmail](https://img.shields.io/badge/mrangjw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrangjw@gmail.com)
- 
+
+[![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mrang/posts)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://eggplant-piccolo-90a.notion.site/1625c454f14580d98ceaf0ab2425593c)
+[![Gmail](https://img.shields.io/badge/mrangjw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrangjw@gmail.com)
+
 </div>
 
 <br/>
@@ -111,9 +111,9 @@
 ---
 
 <div align="center">
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
- 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=200&section=footer)
