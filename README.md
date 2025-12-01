@@ -1,132 +1,281 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20mrangjw's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<!-- Dynamic Header with Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=280&section=header&text=mrangjw&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
-### 💫 Welcome to my GitHub! 
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Developer+with+AI+Focus+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mrangjw&color=40E0D0&style=flat-square&label=Profile+Views)](https://github.com/mrangjw)
-[![GitHub followers](https://img.shields.io/github/followers/mrangjw?style=social)](https://github.com/mrangjw)
+<br/>
+
+<!-- Profile Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mrangjw&label=Profile%20Views&color=40E0D0&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mrangjw?style=for-the-badge&color=40E0D0&labelColor=1c1917&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mrangjw?style=for-the-badge&color=40E0D0&labelColor=1c1917&logo=github" alt="Stars"/>
+</p>
+
+</div>
+
+---
+
+<br/>
+
+## 👨‍💻 About Me
+
+```typescript
+const mrangjw = {
+    location: "Seoul, South Korea 🇰🇷",
+    education: "Computer Science Student",
+    current_focus: ["Full-Stack Development", "AI/ML", "Cloud Architecture"],
+    learning: ["TypeScript", "Next.js", "Spring Boot", "AWS"],
+    hobbies: ["Open Source", "Hackathons", "Building Cool Stuff"],
+    
+    life_philosophy: "Code with passion, learn with purpose, build with impact",
+    
+    currently_working_on: {
+        project_1: "PoseSync - AI-powered Exercise Analysis System",
+        project_2: "Agile Dashboard - Mobile Project Management",
+        project_3: "MicroService Hub - Distributed System Platform"
+    }
+};
+```
+
+<br/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,figma&theme=dark" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,python,flask,mysql,postgresql&theme=dark" />
+</p>
+
+### 🤖 AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🔧 Tools & Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,notion&theme=dark" />
+</p>
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack 
+---
 
-#### 💻 Frontend Development
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br/>
-
-#### ⚙️ Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br/>
-
-#### 📊 Data Analysis & AI
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-
-<br/>
-
-## 🔧 Tools & Environment
-#### Version Control & Development
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3)
-![Jupyter](https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726)
-
-<br/>
-
-#### Design & Planning
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)
-
-<br/>
-
-## 💡 Featured Projects
-
-### 🏃‍♂️ [PoseSync-FE](https://github.com/mrangjw/PoseSync-FE)
-AI 기반 실시간 운동 자세 분석 및 응급상황 감지 시스템 프론트엔드
-- **Tech Stack**: React, TypeScript, MediaPipe
-- **Features**: 실시간 자세 분석, 응급상황 감지, 웹캠 연동
-
-### 🌾 [FarmON-FE](https://github.com/mrangjw/FarmON-FE)
-스마트 팜 모니터링 및 관리 시스템 프론트엔드
-- **Tech Stack**: React, JavaScript, Styled-components
-- **Features**: 실시간 센서 데이터 시각화, 농장 관리
-
-### 📝 [Reflog-FE](https://github.com/mrangjw/Reflog-FE)
-개발 회고록 작성 및 공유 플랫폼 프론트엔드
-- **Tech Stack**: React, JavaScript, CSS
-- **Features**: 회고록 작성, 팀 공유, 통계 분석
-
-<br/>
-
-## 🚀 Current Projects
-- 🏃‍♂️ **PoseSync** - AI 기반 실시간 운동 자세 분석 및 응급상황 감지 시스템 (2025 한성대 캡스톤)
-- 📱 **Agile Dashboard** - Jira, Trello API를 활용한 모바일 애자일 프로젝트 관리 대시보드 구현
-- ⚙️ **MicroService Hub** - Spring Boot 기반 마이크로서비스 아키텍처 학습용 멀티 서비스 플랫폼 개발
-
-<br/>
-
-## 🎯 Future Goals
-- **Full-Stack 역량 강화**: TypeScript + Next.js + Spring Boot 마스터
-- **AI/ML 전문성 확대**: MediaPipe, Computer Vision, 실시간 데이터 처리
-- **클라우드 네이티브**: AWS, Docker, Kubernetes 기술 습득
-- **시스템 아키텍처**: 대규모 서비스 설계 및 최적화 능력 향상
-- **오픈소스 기여**: 더 많은 오픈소스 프로젝트 참여 및 기여
-
-<br/>
-
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🏃‍♂️ PoseSync</h3>
+<div align="center">
+<a href="https://github.com/mrangjw/PoseSync-FE" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=PoseSync-FE&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PoseSync"/>
+</a>
+<p><strong>AI 기반 실시간 운동 자세 분석</strong></p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🌾 FarmON</h3>
+<div align="center">
+<a href="https://github.com/mrangjw/FarmON-FE" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FarmON-FE&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FarmON"/>
+</a>
+<p><strong>스마트 팜 모니터링 시스템</strong></p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📝 Reflog</h3>
+<div align="center">
+<a href="https://github.com/mrangjw/Reflog-FE" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=Reflog-FE&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Reflog"/>
+</a>
+<p><strong>개발 회고록 공유 플랫폼</strong></p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🔄 Current Focus</h3>
+<div align="center">
+<p><strong>진행 중인 프로젝트</strong></p>
+<p>
+📱 <strong>Agile Dashboard</strong><br/>
+Jira/Trello API 통합 모바일 대시보드
+</p>
+<p>
+⚙️ <strong>MicroService Hub</strong><br/>
+Spring Boot 마이크로서비스 플랫폼
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrangjw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=40E0D0&icon_color=40E0D0&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrangjw&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=40E0D0&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrangjw&theme=tokyonight&hide_border=true&background=0D1117&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrangjw&custom_title=Contribution%20Graph&bg_color=0D1117&color=40E0D0&line=40E0D0&point=FFFFFF&hide_border=true&area=true&area_color=40E0D0" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+### 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrangjw&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophy"/>
+</div>
+
+<br/>
+
+---
+
+## 🎯 2024-2025 Roadmap
+
+```mermaid
+graph LR
+    A[Full-Stack Mastery] --> B[TypeScript + Next.js]
+    A --> C[Spring Boot Advanced]
+    A --> D[Cloud Architecture]
+    
+    E[AI/ML Expansion] --> F[Computer Vision]
+    E --> G[Real-time Processing]
+    E --> H[MediaPipe Advanced]
+    
+    I[Infrastructure] --> J[AWS Certified]
+    I --> K[Docker + K8s]
+    I --> L[CI/CD Pipeline]
+    
+    M[Open Source] --> N[Community Contribution]
+    M --> O[Personal Projects]
+    
+    style A fill:#40E0D0
+    style E fill:#40E0D0
+    style I fill:#40E0D0
+    style M fill:#40E0D0
+```
+
+<br/>
+
+---
+
+## 💼 Professional Experience & Achievements
+
+<div align="center">
+
+| 🏆 Achievement | 📅 Date | 📝 Description |
+|:---:|:---:|:---|
+| 🥇 **Hackathon Winner** | 2024 | 1st Place - Singapore Overseas Training Program |
+| 🎓 **Capstone Project** | 2025 | PoseSync - AI Exercise Analysis System |
+| 🌟 **Open Source** | 2024 | NIPA Open Source Contribution Academy |
+| 💼 **Work Experience** | - | Restaurant Service (English Communication) |
+
+</div>
+
+<br/>
+
+---
+
+## 🎓 Certifications & Learning Path
+
+<div align="center">
+
+### 🔥 In Progress
+```diff
++ ☁️ AWS Cloud Practitioner (Highest Priority)
++ 🗣️ OPIC (English Proficiency)
++ 📊 Google Analytics Certification
++ 💻 TOPCIT (Computer Science Assessment)
+```
+
+### 📅 2025 Goals
+```diff
+! 🔐 Information Processing Engineer
+! 📊 SQLD (SQL Developer)
+! 🏢 MS-900 (Microsoft 365 Fundamentals)
+```
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+<a href="https://velog.io/@mrang/posts">
+  <img src="https://img.shields.io/badge/Tech%20Blog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white&labelColor=1EBC8F"/>
+</a>
+<a href="https://eggplant-piccolo-90a.notion.site/1625c454f14580d98ceaf0ab2425593c">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+<a href="mailto:mrangjw@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://github.com/mrangjw">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrangjw&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrangjw&layout=compact&theme=vue&hide_border=true&langs_count=8"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 💬 Let's Build Something Amazing Together!
 
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrangjw&theme=vue-dark&hide_border=true&radius=8)
-
-</div>
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true)
-
-</div>
-
-<br/>
-
-## 📫 Connect with Me
-<div align="center">
-
-[![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mrang/posts)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://eggplant-piccolo-90a.notion.site/1625c454f14580d98ceaf0ab2425593c)
-[![Gmail](https://img.shields.io/badge/mrangjw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrangjw@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Open+to+collaboration+opportunities;Always+learning+new+technologies;Let's+connect+and+innovate!" alt="Typing SVG"/>
 
 </div>
 
@@ -136,8 +285,19 @@ AI 기반 실시간 운동 자세 분석 및 응급상황 감지 시스템 프�
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+GitHub!;Always+open+to+learning+new+things.;Let's+connect+and+create+together!)](https://git.io/typing-svg)
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrangjw/mrangjw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrangjw/mrangjw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrangjw/mrangjw/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>⭐️ From [mrangjw](https://github.com/mrangjw) with 💙</sub>
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:3FD8A7&height=200&section=footer)
+<br/>
+
+<!-- Dynamic Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer" width="100%"/>
