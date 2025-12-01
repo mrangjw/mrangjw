@@ -55,9 +55,21 @@
 <br/>
 
 ## 💡 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=PoseSync-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/PoseSync-FE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=FarmON-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/FarmON-FE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrangjw&repo=Reflog-FE&theme=vue&show_owner=true&cache_seconds=1800)](https://github.com/mrangjw/Reflog-FE)
+
+### 🏃‍♂️ [PoseSync-FE](https://github.com/mrangjw/PoseSync-FE)
+AI 기반 실시간 운동 자세 분석 및 응급상황 감지 시스템 프론트엔드
+- **Tech Stack**: React, TypeScript, MediaPipe
+- **Features**: 실시간 자세 분석, 응급상황 감지, 웹캠 연동
+
+### 🌾 [FarmON-FE](https://github.com/mrangjw/FarmON-FE)
+스마트 팜 모니터링 및 관리 시스템 프론트엔드
+- **Tech Stack**: React, JavaScript, Styled-components
+- **Features**: 실시간 센서 데이터 시각화, 농장 관리
+
+### 📝 [Reflog-FE](https://github.com/mrangjw/Reflog-FE)
+개발 회고록 작성 및 공유 플랫폼 프론트엔드
+- **Tech Stack**: React, JavaScript, CSS
+- **Features**: 회고록 작성, 팀 공유, 통계 분석
 
 <br/>
 
@@ -77,21 +89,33 @@
 
 <br/>
 
-## 🏆 Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true&rank=A,AAA,AA&no-bg=true)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/mrangjw">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrangjw&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrangjw&layout=compact&theme=vue&hide_border=true&langs_count=8"/>
+</a>
+
+<br/>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-## 📊 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrangjw&theme=vue-dark&hide_border=true&radius=8)
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrangjw&show_icons=true&theme=vue&cache_seconds=1800)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrangjw&layout=compact&theme=vue&hide_border=true&cache_seconds=1800)](https://github.com/mrangjw)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrangjw&theme=vue&hide_border=true)](https://git.io/streak-stats)
-
-![Activity Graph](https://ghactivity.mrayush.me/graph?username=mrangjw&theme=vue&area=true&hide_border=true&radius=8)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mrangjw&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true)
 
 </div>
 
